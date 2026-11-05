@@ -1,0 +1,6 @@
+{
+  "plugin.name": "Market Check",
+  "plugin.description": "A test plugin for the OhMyGame plugin market: a Skill, a panel and a command.",
+  "panel.title": "Market Check",
+  "command.open": "Open Market Check"
+}
